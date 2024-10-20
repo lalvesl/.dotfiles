@@ -1,0 +1,24 @@
+[colors.cursor]
+text   = '#FFFFFF'
+cursor = '#FFFFFF'
+
+[colors.normal]
+black   = '0x1e1e1e'
+red     = '0xc01c28'
+green   = '0x26a269'
+yellow  = '0xa2734c'
+blue    = '0x12488b'
+magenta = '0xa347ba'
+cyan    = '0x2aa1b3'
+white   = '0xcfcfcf'
+
+[colors.bright]
+black   = '0x5d5d5d'
+red     = '0xf66151'
+green   = '0x33d17a'
+yellow  = '0xe9ad0c'
+blue    = '0x2a7bde'
+magenta = '0xc061cb'
+cyan    = '0x33c7de'
+white   = '0xffffff'
+

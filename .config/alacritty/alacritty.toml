@@ -1,0 +1,40 @@
+live_config_reload = true
+
+import = [
+  "~/.config/alacritty/theme.toml"
+]
+
+[env]
+TERM = "screen-256color"
+
+[window]
+decorations = "None"
+dynamic_padding = false
+opacity = 0.65
+
+[window.dimensions]
+columns = 500
+lines = 40
+
+[window.padding]
+x = 10
+y = 10
+
+[font]
+size = 13
+
+[font.bold]
+family = "MesloLGS NF"
+style = "Bold"
+
+[font.italic]
+family = "MesloLGS NF,Regular Italic"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGS NF"
+style = "Regular"
+
+[font.bold_italic]
+family = "MesloLGS NF,Bold Italic"
+style = "Bold Italic"
